@@ -1,0 +1,13 @@
+{
+  "itemGroup.oopsyspellsandotherstuff": "Example Mod Tab",
+  "block.oopsyspellsandotherstuff.example_block": "Example Block",
+  "item.oopsyspellsandotherstuff.example_item": "Example Item",
+
+  "oopsyspellsandotherstuff.configuration.title": "Oopsy - Spells and Other Stuff Configs",
+  "oopsyspellsandotherstuff.configuration.section.oopsyspellsandotherstuff.common.toml": "Oopsy - Spells and Other Stuff Configs",
+  "oopsyspellsandotherstuff.configuration.section.oopsyspellsandotherstuff.common.toml.title": "Oopsy - Spells and Other Stuff Configs",
+  "oopsyspellsandotherstuff.configuration.items": "Item List",
+  "oopsyspellsandotherstuff.configuration.logDirtBlock": "Log Dirt Block",
+  "oopsyspellsandotherstuff.configuration.magicNumberIntroduction": "Magic Number Text",
+  "oopsyspellsandotherstuff.configuration.magicNumber": "Magic Number"
+}
